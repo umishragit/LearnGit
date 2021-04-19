@@ -1,1 +1,3 @@
 testing ssh authentication
+
+testing git commit -am "" command
